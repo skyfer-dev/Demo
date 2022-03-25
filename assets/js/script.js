@@ -1,7 +1,7 @@
 var age
 age = 16
-const name = 'didier'
-var fruits = ['orange', 'banane']
+const name = 'fopa'
+var fruits = ['noisette', 'banane']
 
 if (age < 15) {
     console.log('echec')
